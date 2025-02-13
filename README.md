@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-I am currently studying Python Backend Programming.
+I am working on Python Backend Projects.
 
 
 ## 🌐 Socials:
